@@ -1,4 +1,5 @@
 /*
+Zmiana b¹belkowa (czy w ogóle te pliki siê wys³a³y??)
 Sortowanie liczb calkowitych metoda babelkowa
 Program zostal pobrany ze strony www.algorytm.org
 Opracowal Michal Knasiecki
