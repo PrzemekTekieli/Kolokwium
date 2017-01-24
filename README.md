@@ -1,0 +1,2 @@
+# Kolokwium
+Kolokwium Przemysław Tekieli
