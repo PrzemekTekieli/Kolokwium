@@ -1,5 +1,6 @@
 /*
 Jakaœ losowa zmiana, to ju¿ ostatnaiz tego punktu (Zmiana 5)
+Zmiana w nowym branchu (nowa)
 Sortowanie liczb calkowitych metoda InsertionSort
 Program zostal pobrany ze strony www.algorytm.org
 Opracowal Michal Knasiecki
